@@ -4,8 +4,8 @@ Welcome to my GitHub Page! My name is Joaquin Acosta and I enjoy learning about 
 
 + :briefcase: I'm currently working at [Libre Hub](https://github.com/LIBREhub) with the [Wenzel Lab](https://github.com/wenzel-lab) group 
 + :joystick: I'm currently learning about [RetroArch](https://github.com/libretro/RetroArch)
-+ :swan: :deer: I like geeses and mooses
++ :swan: I like geeses and mooses :deer:
 + :snake: I'm looking for help with complex GUI frameworks based in Python
-+ :dna: :desktop_computer: I have a degree in Molecular Biotechnological Engineering
++ :desktop_computer: I have a degree in Molecular Biotechnological Engineering :dna:
 + :envelope: You can reach me at: joaquin.acosta@ug.uchile.cl
 + :mage_man: I'm happy to help, share and dicuss any ideas you may have. Ask me about anything.
