@@ -3,7 +3,7 @@ Welcome to my GitHub Page! My name is Joaquin Acosta and I enjoy learning about 
 ## More about me:
 
 + :briefcase: I'm currently working at [Libre Hub](https://github.com/LIBREhub) with the [Wenzel Lab](https://github.com/wenzel-lab) group 
-+ :joystick: I'm currently learning about [Docker]([https://github.com/libretro/RetroArch](https://github.com/docker))
++ :joystick: I'm currently learning about [Docker](https://github.com/docker)
 + :swan: I like geeses and mooses :deer:
 + :snake: I'm looking for help with understanding concurrency and threading.
 + :desktop_computer: I have a degree in Molecular Biotechnological Engineering :dna:
