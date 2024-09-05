@@ -3,9 +3,12 @@ Welcome to my GitHub Page! My name is Joaquin Acosta and I enjoy learning about 
 ## More about me:
 
 + :briefcase: I'm currently working at [Libre Hub](https://github.com/LIBREhub) with the [Wenzel Lab](https://github.com/wenzel-lab) group 
-+ :joystick: I'm currently learning about [Docker](https://github.com/docker)
++ :whale2: I'm currently learning about [Docker](https://github.com/docker)
++ :desktop_computer: Hardware junkie, building computers is my passion.
 + :swan: I like geeses and mooses :deer:
-+ :snake: I'm looking for help with understanding concurrency and threading.
-+ :desktop_computer: I have a degree in Molecular Biotechnological Engineering :dna:
++ :snake: I'm looking for help with understanding concurrency and threading
++ :video_game: Video-game aficionado, diving into emulation and the preservation of video-games 
++ :computer: I have a degree in Molecular Biotechnological Engineering, specialized in Bioinformatics :dna:
++ :book: In my free time I like to spend time reading *Practical Electronics for Inventors, Fourth Edition 4th Edition*, by Paul Scherz and Simon Monk
 + :envelope: You can reach me at: joaquin.acosta@ug.uchile.cl
 + :mage_man: I'm happy to help, share and dicuss any ideas you may have. Ask me about anything.
