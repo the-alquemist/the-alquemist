@@ -2,7 +2,6 @@ Welcome to my GitHub Page! My name is Joaquin Acosta and I enjoy learning about 
 
 ## More about me:
 
-+ :briefcase: I'm currently working at [Libre Hub](https://github.com/LIBREhub) with the [Wenzel Lab](https://github.com/wenzel-lab) group 
 + :whale2: I'm currently learning about [Docker](https://github.com/docker)
 + :desktop_computer: Hardware junkie, building computers is my passion :toolbox::screwdriver:
 + :swan: I like geeses and mooses :deer:
