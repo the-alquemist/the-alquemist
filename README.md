@@ -13,6 +13,10 @@ Software and Hardware preservation is a fundamental right.
 + :video_game: Video-game aficionado, diving into emulation and the preservation of video-games 
 + :tongue: At the moment, I can program in Python, Scala, C, C++ and HTML/CSS :toolbox:
 
+## Blacklisted companies
++ :x: PCExpress - Stole and damaged my hardware equipment, dubious technical support.
++ :x: System76 - 3K USD scam, they deny responsibility for factory related issues with their hardware. Anticonsumer practices.
+
 ## 2026 Book recommendations
 It's never enough to go over the basics every now and then 
 + :book: [*Every Tool's a Hammer: Life Is What You Make It*](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472/ref=tmm_hrd_swatch_0), by Adam Savage
