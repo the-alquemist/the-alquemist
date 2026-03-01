@@ -101,7 +101,7 @@ MSc – Computer Science (in progress)
 ## 🎮 Personal Interests
 
 + 🎮 Video-game aficionado! I'm interested in emulation, performance optimization, and digital preservation  
-+ 🔥 Hardware enthusiast | Building, benchmarking, and optimizing systems is what drives me 🔌 🔧
++ 🔥 Hardware enthusiast. Building, benchmarking, and optimizing systems is what drives me 🔌 🔧
 + 🦢 Appreciator of geese and moose (seriously)
    
 ---
