@@ -14,8 +14,8 @@ Software and Hardware preservation is a fundamental right.
 + :tongue: At the moment, I can program in Python, Scala, C, C++ and HTML/CSS :toolbox:
 
 ## Blacklisted companies
-+ :x: PCExpress - Stole and damaged my hardware equipment, dubious technical support.
-+ :x: System76 - 3K USD scam, they deny responsibility for factory related issues with their hardware. Anticonsumer practices.
++ :x: [PCExpress](https://tienda.pc-express.cl/) - Stole and damaged my hardware equipment, dubious technical support.
++ :x: [System76](https://system76.com/) - 3K USD scam, they deny responsibility for factory related issues with their hardware. Anticonsumer practices.
 
 ## 2026 Book recommendations
 It's never enough to go over the basics every now and then 
