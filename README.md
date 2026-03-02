@@ -4,8 +4,8 @@
 
 ![OS](https://img.shields.io/badge/OS-Linux-black)
 ![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![Focus](https://img.shields.io/badge/Focus-Scientific%20Computing-orange)
-![MSc](https://img.shields.io/badge/MSc-Computer%20Science%20(2025–2028)-green)
+![Focus](https://img.shields.io/badge/Focus-Scientific%20Computing-brown)
+![MSc](https://img.shields.io/badge/MSc-Computer%20Science%20(2025–2028)-purple)
 
 ---
 
