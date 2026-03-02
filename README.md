@@ -1,12 +1,17 @@
-# Welcome to my GitHub Page!
-
-Hi, I'm Joaquin Acosta.
+# Joaquín Elías Acosta
 
 ### **Bioinformatician | Systems-Oriented Engineer | Scientific Computing & Performance Specialist**
 
-I am an engineer with 4+ years of hands-on experience in bioinformatics, research computing infrastructure, embedded systems integration, and open-source development.
+![OS](https://img.shields.io/badge/OS-Linux-black)
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![Focus](https://img.shields.io/badge/Focus-Scientific%20Computing-orange)
+![MSc](https://img.shields.io/badge/MSc-Computer%20Science%20(2025–2028)-green)
 
-I enjoy understanding systems end-to-end, from hardware architecture to high-level software pipelines.
+---
+
+I am a bioinformatician and systems-oriented engineer with 4+ years of hands-on experience in scientific computing, infrastructure design, and hardware–software integration.
+
+My work bridges molecular biotechnology, computational analysis, embedded systems, and Linux-based environments. I design and analyze systems end-to-end, from hardware architecture to high-level software pipelines.
 
 If I can disassemble and reassemble it, I can understand it.
 
@@ -20,29 +25,12 @@ If I can disassemble and reassemble it, I can understand it.
 
 ## 💼 Professional Focus
 
-BSc – Molecular Biotechnological Engineering  
-`Jan 2021 – Dec 2023`
-
-MSc – Computer Science (in progress)  
-`Mar 2025 – Mar 2028`
-
-+ 🧬 I work at the intersection of:
-  - Scientific computing  
-  - Data analysis  
-  - Systems performance  
-  - Research tooling  
-  - Hardware-software integration  
-
-+ 🐧 Native Linux user with strong experience in:
-  - Bash
-  - Python
-  - Systems configuration
-  - Containerized research environments  
-
-+ 🧠 Currently expanding my expertise in:
-  - Transcoding pipelines  
-  - CUDA & GPU acceleration  
-  - Concurrency and threading models  
+- Bioinformatics & genomic data analysis  
+- Scientific computing & performance optimization  
+- Linux-based research environments  
+- Hardware–software integration  
+- Embedded systems and real-time data acquisition  
+- Research infrastructure design  
 
 ---
 
@@ -81,38 +69,77 @@ MSc – Computer Science (in progress)
 
 ## 🧰 Technical Skills
 
-+ 🐍 Programming Languages:
-  - Python
-  - Scala
-  - C
-  - C++
-  - HTML/CSS
-  - Bash
+**Programming**
+- Python (scientific stack, automation, data pipelines)
+- Bash / Shell scripting
+- C/C++ (embedded and performance-oriented contexts)
+  
+**Bioinformatics**
+- High-throughput sequencing analysis (basecalling → assembly → downstream analysis)
+- Pipeline architecture and workflow orchestration
+- Reproducible research environments (Linux-native)
+- Performance optimization for large biological datasets
+  
+**Systems & Infrastructure**
+- Linux system configuration and administration
+- Containerized research workflows
+- Storage architecture for data-intensive environments
+- Performance tuning across hardware and software layers
 
-+ 🔧 Systems & Hardware:
-  - Linux based systems, containers and environments
-  - Embedded systems integration
-  - GPU-accelerated workloads
-  - Performance tuning & benchmarking
-  - Workstation and server architecture design
+**Embedded & Hardware**
+- Microcontroller integration
+- Serial communication protocols
+- Real-time data acquisition
 
 ---
 
-## 🎮 Personal Interests
+## 🎓 Education
 
-+ 🎮 Video-game aficionado! I'm interested in emulation, performance optimization, and digital preservation  
-+ 🔥 Hardware enthusiast. Building, benchmarking, and optimizing systems is what drives me 🔌 🔧
-+ 🦢 Appreciator of geese and moose (seriously)
+**BSc – Molecular Biotechnological Engineering**  
+Jan 2021 – Dec 2023  
+
+**MSc – Computer Science (in progress)**  
+Mar 2025 – Mar 2028  
+
+---
+
+## 🧠 Personal Interests
+
+- Systems architecture and low-level computing  
+- Hardware preservation and retro-computing  
+- Scientific reproducibility  
+- Performance optimization in constrained environments  
+- Appreciator of geese and moose (seriously)
    
 ---
 
 ## 🌍 What I Care About
 
-- Open-source ecosystems  
-- Right-to-repair  
-- Performance transparency  
-- Low-level system understanding  
-- DIY engineering culture  
+- Sustainable open-source ecosystems  
+- Right-to-repair and hardware longevity  
+- Transparent system performance  
+- Understanding systems from silicon to software  
+- Independent, hands-on engineering culture  
+
+---
+
+## 🖥️ Personal Computer
+
+Primary workstation:
+
+- Fedora 43  
+- Ryzen 7 5800X3D  
+- RX 6800 XT
+- ARC A380  
+- 64GB DDR4  
+- 2TB NVMe + 2TB SSD storage + 10TB archival HDD  
+
+---
+
+## 🔗 Connect With Me
+
++ ✉️ Email: joaquin.acosta@ug.uchile.cl  
++ 💼 LinkedIn: https://www.linkedin.com/in/jacosta8080711b5  
 
 ---
 
@@ -123,10 +150,3 @@ Revisiting fundamentals is never a waste of time.
 + 📖 [*Every Tool's a Hammer: Life Is What You Make It*](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) — Adam Savage  
 + 📖 [*Dead Simple Python*](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920) — Jason C. McDonald  
 + 📖 [*The Art of Doing Science and Engineering: Learning to Learn*](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178) — Richard Hamming & Bret Victor  
-
----
-
-## 🔗 Connect With Me
-
-+ ✉️ Email: joaquin.acosta@ug.uchile.cl  
-+ 💼 LinkedIn: https://www.linkedin.com/in/jacosta8080711b5  
