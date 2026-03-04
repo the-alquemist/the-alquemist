@@ -52,14 +52,14 @@ If I can disassemble and reassemble it, I can understand it.
    - Enabled real-time hardware control and parameter tuning  
    - Managed IT infrastructure to ensure system stability and seamless integration  
 
-3. **Research Computing Infrastructure – Wenzel Lab**  
+3. **Research Computing Infrastructure - Wenzel Lab**  
    Design and deployment of research-focused computing systems and environments.
 
    - Configured and maintained Linux-based research environments  
    - Designed and deployed containerized pipelines for reproducible research  
    - Ensured long-term maintainability, performance optimization, and infrastructure reliability  
 
-4. **"Franklin" – DIY Linux Storage Server (GMI Lab)**  
+4. **"Franklin" – DIY Linux Storage Server - GMI Lab**  
    Designed and built a high-capacity storage server using salvaged components from decommissioned systems.
 
    - Engineered a reliable research data server for large-scale laboratory datasets  
