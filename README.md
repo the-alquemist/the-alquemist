@@ -36,7 +36,7 @@ If I can disassemble and reassemble it, I can understand it.
 
 ## 🚀 Selected Projects & Achievements
 
-1. **GMI-PAN**  
+1. **GMI-PAN - GMI Lab**  
    Automated evaluation and annotation pipeline for specific features in assembled nucleotide sequences of prokaryotic origin.
 
    - Developed Python-based automation for comparative genomics workflows  
@@ -44,7 +44,7 @@ If I can disassemble and reassemble it, I can understand it.
    - Supported ecological and epidemiological genomic research  
    - Built high-performance workstations tailored for genomic workloads  
 
-2. **FADS – Fluorescence Activated Droplet Sorting**  
+2. **FADS – Fluorescence Activated Droplet Sorting - Wenzel Lab**  
    Open-source software development and hardware integration in collaboration with internal and external partners.
 
    - Developed a Python-based GUI using **Bokeh** to connect the FADS device with **RedPitaya** for real-time analysis and experimental control  
