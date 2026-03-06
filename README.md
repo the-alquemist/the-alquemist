@@ -149,4 +149,36 @@ Revisiting fundamentals is never a waste of time.
 
 + 📖 [*Every Tool's a Hammer: Life Is What You Make It*](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472) — Adam Savage  
 + 📖 [*Dead Simple Python*](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920) — Jason C. McDonald  
-+ 📖 [*The Art of Doing Science and Engineering: Learning to Learn*](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178) — Richard Hamming & Bret Victor  
++ 📖 [*The Art of Doing Science and Engineering: Learning to Learn*](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178) — Richard Hamming & Bret Victor
+
+---
+
+## 🧭 Ethics & Standards
+
+I prioritize technologies and companies that demonstrate transparency,
+technical integrity, and respectful treatment of partners and customers.
+
+As a matter of principle, I avoid using products or services from organizations
+whose practices I believe are anti-consumer, rely on misleading communication,
+or provide consistently poor behaviour.
+
+Based on my experiences, this currently includes:
+
+- *PCExpress* Oct - 2017
+- *COMERCIAL ESEGE SPA* Sep - 2023
+- *System76* Nov - 2023
+- *UPS* Dec - 2023
+
+---
+
+## ⚠️ Notable Hardware Failures
+
+- Intel Core i9-13900K / 14900K — instability and degradation issues under aggressive motherboard power defaults
+- Nvidia RTX 5090/4090/3090 — 12VHPWR connector melting incidents
+- Samsung 990 Pro (1TB / 2TB NVMe, early firmware) — abnormal SMART health degradation
+- Seagate Barracuda 7200.11 — BSY firmware lock bug
+- ASUS AM5 boards (X670/B650 BIOS before AGESA 1.0.0.7) — unsafe SoC voltage damaging Ryzen 7000X3D CPUs
+- Gigabyte Z690I Aorus Ultra (rev.1.0) — PCIe Gen4 instability requiring board replacement
+- Gigabyte GP-P750GM / GP-P850GM PSUs — catastrophic failure due to poorly tuned OPP
+- NZXT H1 (2020, first revision) — PCIe riser short-circuit fire hazard
+- Radeon RX 7900 XTX reference cards — vapor chamber defect causing severe thermal throttling
