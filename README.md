@@ -160,7 +160,7 @@ technical integrity, and respectful treatment of partners and customers.
 
 As a matter of principle, I avoid using products or services from organizations
 whose practices I believe are anti-consumer, rely on misleading communication,
-or provide consistently poor behaviour.
+or provide consistently poor behavior.
 
 Based on my experiences, this currently includes:
 
