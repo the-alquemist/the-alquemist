@@ -132,7 +132,7 @@ Primary workstation:
 - RX 6800 XT
 - ARC A380  
 - 64GB DDR4  
-- 2TB NVMe + 2TB SSD storage + 10TB archival HDD  
+- 2TB NVMe + 2TB SSD storage + 20TB archival HDD  
 
 ---
 
